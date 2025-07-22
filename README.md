@@ -1,15 +1,17 @@
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/f2067c28-523a-4277-b965-332ca7c874cb" alt="Banner" />
+</p>
 
+<h1 align="center">Hi 👋, I'm <strong>Priyanka Khatri</strong></h1>
 
-
-<img width="945" height="709" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/f2067c28-523a-4277-b965-332ca7c874cb" />
-
-# Hi 👋, I'm Priyanka Khatri  
-On the journey to becoming a Software Engineer from Nepal 🇳🇵
+<p align="center">
+  On the journey to becoming a Software Engineer from Nepal 🇳🇵
+</p>
 
 ---
 
 ## 🚀 Proof of Work  
-Check out my featured projects here 👉 [Preeyanka Khatri – GitHub Portfolio](https://github.com/preeyankakc037?tab=repositories)
+Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](https://github.com/preeyankakc037?tab=repositories)
 
 ---
 
@@ -19,8 +21,8 @@ Check out my featured projects here 👉 [Preeyanka Khatri – GitHub Portfolio]
 🛠️ I build smart systems like LegalEase AI and IoT-based Smart Power Monitoring  
 🧠 Passionate about solving real-world problems using technology  
 👩‍💻 All my work lives here: [GitHub Projects](https://github.com/preeyankakc037?tab=repositories)  
-💬 Ask me about Python, Web Dev, APIs, and Arduino Projects  
 📫 How to reach me: preeyankakc.07@gmail.com  
+💬 Ask me about Python, Web Dev, APIs, and Arduino Projects  
 ⚡ Fun fact: I explain AI like storytelling — logical, but with a spark ✨  
 
 ---
@@ -73,4 +75,3 @@ Check out my featured projects here 👉 [Preeyanka Khatri – GitHub Portfolio]
 ---
 
 > _“Dream big, code smart, and light up your world with technology.”_ ✨
-
