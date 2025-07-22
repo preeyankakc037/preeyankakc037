@@ -45,6 +45,18 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
+## 🔥 GitHub Streak & Grade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=preeyankakc037&theme=tokyonight&border=DD2727&stroke=00ffee" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preeyankakc037&theme=tokyonight" />
+  <br/>
+  <strong>Grade:</strong> A- | ⭐ Stars: 58 | 🔀 Commits (2025): 716 | 🧪 PRs: 97 | 🐞 Issues: 77 | 🌍 Contributions (Last Year): 35
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -71,6 +83,3 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
----
-
