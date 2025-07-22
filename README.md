@@ -3,8 +3,7 @@
 <img width="2000" height="1333" alt="Untitled design" src="https://github.com/user-attachments/assets/33e74944-5d49-4fe6-a57c-1748a1cec85b" />
 
 
-
-                                         <h1 align="center"><strong>Priyanka Khatri</strong></h1>
+                                                     # **Priyanka Khatri**
  
 <!--
 **preeyankakc037/preeyankakc037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
