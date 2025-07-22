@@ -52,7 +52,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preeyankakc037&theme=tokyonight" />
   <br/>
-  <strong>Grade:</strong> A- | ⭐ Stars: 58 | 🔀 Commits (2025): 716 | 🧪 PRs: 97 | 🐞 Issues: 77 | 🌍 Contributions (Last Year): 35
+  
 </p>
 
 ---
