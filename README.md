@@ -51,8 +51,6 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <img src="https://streak-stats.demolab.com/?user=preeyankakc037&theme=tokyonight&border=DD2727&stroke=00ffee" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preeyankakc037&theme=tokyonight" />
-  <br/>
-  
 </p>
 
 ---
@@ -81,5 +79,8 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   </a>
   <a href="https://www.geeksforgeeks.org/user/preeyanrbbf/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.datacamp.com/portfolio/preeyankakc07" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" />
   </a>
 </p>
