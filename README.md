@@ -4,7 +4,8 @@
 
 
 
-                                                          Priyanka Khatri 
+                                         <h1 align="center"><strong>Priyanka Khatri</strong></h1>
+ 
 <!--
 **preeyankakc037/preeyankakc037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
