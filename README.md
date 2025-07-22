@@ -18,7 +18,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 ## 💻 Coding  
 
 🌱 I’m currently learning Django, FastAPI, Tailwind CSS, and React  
-🛠️ I build smart systems like LegalEase AI and IoT-based Smart Power Monitoring  
+🛠️ I build smart systems like LegalEase Nepal and IoT-based Smart Power Monitoring  
 🧠 Passionate about solving real-world problems using technology  
 👩‍💻 All my work lives here: [GitHub Projects](https://github.com/preeyankakc037?tab=repositories)  
 📫 How to reach me: preeyankakc.07@gmail.com  
@@ -74,4 +74,3 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-> _“Dream big, code smart, and light up your world with technology.”_ ✨
