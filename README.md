@@ -71,7 +71,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-## 👩‍💻 Coding Platforms  
+## 👩‍💻 Coding & Learning Platforms  
 
 <p align="left">
   <a href="https://leetcode.com/u/ray037/" target="_blank">
