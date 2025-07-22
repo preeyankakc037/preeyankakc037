@@ -67,7 +67,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <a href="https://leetcode.com/u/ray037/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/preeyanrbbf/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
