@@ -3,48 +3,74 @@
 
 <img width="945" height="709" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/f2067c28-523a-4277-b965-332ca7c874cb" />
 
-
-# **Preeyanka Khatri**
-
-💻 AI & IoT Enthusiast | 🌱 BSc. CS with AI | 🇳🇵 From Nepal  
-🔧 Currently Building: Smart Power Monitoring & LegalEase AI  
-📚 Learning: Python, JavaScript, Django, Arduino  
-🎯 Focused on solving real-world problems with tech
+# Hi 👋, I'm Priyanka Khatri  
+On the journey to becoming a Software Engineer from Nepal 🇳🇵
 
 ---
 
-## 🚀 Projects & Work
-
-- ⚡ **Smart Power Monitoring System** – IoT-based energy optimizer  
-- 🤖 **LegalEase AI** – AI-powered legal assistant *(link repo if public)*  
-- 🛍️ **Laptop Store Website** – Responsive frontend project
+## 🚀 Proof of Work  
+Check out my featured projects here 👉 [Preeyanka Khatri – GitHub Portfolio](https://github.com/preeyankakc037?tab=repositories)
 
 ---
 
-## 🌱 Currently Learning
+## 💻 Coding  
 
-- Django & REST APIs
-- JavaScript (Vanilla + Node.js)
-- Arduino + Sensor Integration
-- Git & Deployment (Render, GitHub Pages)
-
----
-
-## 📈 GitHub Stats
-
-![Preeyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preeyankakc037&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preeyankakc037&layout=compact&theme=tokyonight)
+🌱 I’m currently learning Django, FastAPI, Tailwind CSS, and React  
+🛠️ I build smart systems like LegalEase AI and IoT-based Smart Power Monitoring  
+🧠 Passionate about solving real-world problems using technology  
+👩‍💻 All my work lives here: [GitHub Projects](https://github.com/preeyankakc037?tab=repositories)  
+💬 Ask me about Python, Web Dev, APIs, and Arduino Projects  
+📫 How to reach me: preeyankakc.07@gmail.com  
+⚡ Fun fact: I explain AI like storytelling — logical, but with a spark ✨  
 
 ---
 
-## 📫 Connect with Me
+## 🧰 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/preeyankakc037)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,javascript,react,git,github,vscode,arduino&theme=light" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preeyankakc037&show_icons=true&theme=tokyonight" alt="Preeyanka's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyankakc037&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram" />
+  </a>
+  <a href="https://github.com/preeyankakc037" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 Coding Platforms  
+
+<p align="left">
+  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-gfg-username" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 > _“Dream big, code smart, and light up your world with technology.”_ ✨
-
 
