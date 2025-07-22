@@ -1,6 +1,7 @@
 
 
-<img width="1536" height="1024" alt="Magical Violin Serenade in Dreamscape" src="https://github.com/user-attachments/assets/2a6f8277-9ade-47b2-baba-4b8047ee69e3" />
+<img width="2000" height="1333" alt="Untitled design" src="https://github.com/user-attachments/assets/33e74944-5d49-4fe6-a57c-1748a1cec85b" />
+
 
 
                                                           Priyanka Khatri 
