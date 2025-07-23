@@ -42,10 +42,6 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyankakc037&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preeyankakc037&label=Profile%20Views&color=0e75b6&style=flat" alt="preeyankakc037" />
-</p>
-
 
 ---
 
