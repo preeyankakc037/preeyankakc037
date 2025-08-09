@@ -2,7 +2,7 @@
   <img width="500" src="https://github.com/user-attachments/assets/f2067c28-523a-4277-b965-332ca7c874cb" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <strong>Priyanka Khatri</strong></h1>
+<h1 align="center">Hi, I'm <strong>Priyanka Khatri</strong></h1>
 
 <p align="center">
   On the journey to becoming a Software Engineer from Nepal 🇳🇵
@@ -16,7 +16,6 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 ---
 
 ## Coding  
-
 🌱 I’m currently learning Django, FastAPI, Tailwind CSS, and React  
 🛠️ I build smart systems like LegalEase Nepal and IoT-based Smart Power Monitoring  
 🧠 Passionate about solving real-world problems using technology  
@@ -45,7 +44,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-## 🔥 GitHub Streak & Grade
+## GitHub Streak & Grade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=preeyankakc037&theme=tokyonight&border=DD2727&stroke=00ffee" alt="GitHub Streak" />
@@ -84,4 +83,4 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <a href="https://www.datacamp.com/portfolio/preeyankakc07" target="_blank">
     <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" />
   </a>
-</p> 
+</p>  
