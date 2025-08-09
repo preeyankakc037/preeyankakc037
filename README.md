@@ -8,15 +8,14 @@
   On the journey to becoming a Software Engineer from Nepal 🇳🇵
 </p>
 
-
 ---
 
-## 🚀 Proof of Work  
+## Proof of Work  
 Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](https://github.com/preeyankakc037?tab=repositories)
 
 ---
 
-## 💻 Coding  
+## Coding  
 
 🌱 I’m currently learning Django, FastAPI, Tailwind CSS, and React  
 🛠️ I build smart systems like LegalEase Nepal and IoT-based Smart Power Monitoring  
@@ -28,7 +27,7 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,tailwind,javascript,react,git,github,vscode,arduino&theme=light" />
@@ -36,14 +35,13 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=preeyankakc037&show_icons=true&theme=tokyonight" alt="Preeyanka's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeyankakc037&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
 
 ---
 
@@ -57,23 +55,24 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/priyanka-khatri07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram" />
+  <a href="https://x.com/preeyanka07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter" />
   </a>
   <a href="https://github.com/preeyankakc037" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=preeyankakc037&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👩‍💻 Coding & Learning Platforms  
+## Coding & Learning Platforms  
 
 <p align="left">
   <a href="https://leetcode.com/u/ray037/" target="_blank">
@@ -85,4 +84,4 @@ Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](
   <a href="https://www.datacamp.com/portfolio/preeyankakc07" target="_blank">
     <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" />
   </a>
-</p>
+</p> 
