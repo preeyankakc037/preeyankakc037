@@ -4,11 +4,6 @@
 
 <h1 align="center">Hi, I'm <strong>Priyanka Khatri</strong></h1>
 
-<p align="center">
-Better than yesterday.
-</p>
-
-
 ## A Glimpse of My Journey
 Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://preeyanka-genn.vercel.app/)
 
