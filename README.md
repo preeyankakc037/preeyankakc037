@@ -9,26 +9,16 @@ Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://p
 
 
 ---
-## 💻 Coding Journey  
+## Coding Journey  
 
-🚀 **Currently Working On:**  
-Enhancing my skills in **Django** and developing **Dufy** — an AI-powered music recommendation platform.  
-🔗 [View Project on GitHub](https://github.com/preeyankakc037/Dufy)
-
-🧠 **Core Skills & Technologies:**  
-Python · Django · FastAPI · JavaScript · React · Tailwind CSS · HTML · CSS  
-
-📊 **Frameworks & Libraries:**  
-NumPy · Pandas · Matplotlib · Tkinter  
-
-🗄️ **Database:**  
-MySQL  
-
-🧰 **Tools & Platforms:**  
-Git · GitHub · GitHub Actions · Render · Google Colab · Arduino  
-
-🎨 **Design & Prototyping:**  
-Figma · Canva · Tinkercad · Notion · Microsoft Excel · PowerPoint
+**Currently Working On:** Enhancing Django skills and developing [Dufy](https://github.com/preeyankakc037/Dufy), an AI-powered music recommendation platform.  
+---
+**Languages:** Python · Django · JavaScript · FastAPI  
+**Web Technologies:** React · Tailwind CSS · HTML · CSS  
+**Frameworks & Libraries:** NumPy · Pandas · Matplotlib · Tkinter  
+**Database:** MySQL  
+**Tools & Platforms:** Git · GitHub · GitHub Actions · Render · Google Colab · Arduino  
+**Design & Prototyping:** Figma · Canva · Tinkercad · Notion · Excel · PowerPoint
 
 ---
 
