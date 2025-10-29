@@ -11,7 +11,8 @@ Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://p
 ---
 ## Coding Journey  
 
-**Currently Working On:** Enhancing Django skills and developing [Dufy](https://github.com/preeyankakc037/Dufy), an AI-powered music recommendation platform.  
+<h3>wCurrently Working On:</h3>
+Enhancing Django skills and developing [Dufy](https://github.com/preeyankakc037/Dufy), an AI-powered music recommendation platform.  
 ---
 **Languages:** Python · Django · JavaScript · FastAPI  
 **Web Technologies:** React · Tailwind CSS · HTML · CSS  
