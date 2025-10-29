@@ -9,15 +9,26 @@ Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://p
 
 
 ---
+## 💻 Coding Journey  
 
-## Coding  
-🌱 I’m currently learning Django, FastAPI, Tailwind CSS, and React  
-🛠️ I build smart systems like LegalEase Nepal and IoT-based Smart Power Monitoring  
-🧠 Passionate about solving real-world problems using technology  
-👩‍💻 All my work lives here: [GitHub Projects](https://github.com/preeyankakc037?tab=repositories)  
-📫 How to reach me: preeyankakc.07@gmail.com  
-💬 Ask me about Python, Web Dev, APIs, and Arduino Projects  
-⚡ Fun fact: I explain AI like storytelling — logical, but with a spark ✨  
+🚀 **Currently Working On:**  
+Enhancing my skills in **Django** and developing **Dufy** — an AI-powered music recommendation platform.  
+🔗 [View Project on GitHub](https://github.com/preeyankakc037/Dufy)
+
+🧠 **Core Skills & Technologies:**  
+Python · Django · FastAPI · JavaScript · React · Tailwind CSS · HTML · CSS  
+
+📊 **Frameworks & Libraries:**  
+NumPy · Pandas · Matplotlib · Tkinter  
+
+🗄️ **Database:**  
+MySQL  
+
+🧰 **Tools & Platforms:**  
+Git · GitHub · GitHub Actions · Render · Google Colab · Arduino  
+
+🎨 **Design & Prototyping:**  
+Figma · Canva · Tinkercad · Notion · Microsoft Excel · PowerPoint
 
 ---
 
