@@ -5,12 +5,11 @@
 <h1 align="center">Hi, I'm <strong>Priyanka Khatri</strong></h1>
 
 <p align="center">
-Building, breaking, and learning — evolving with every commit toward something greater than yesterday.
+Better than yesterday.
 </p>
 
 
 ## A Glimpse of My Journey
-## Proof of Work  
 Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://preeyanka-genn.vercel.app/)
 
 
