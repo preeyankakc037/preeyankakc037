@@ -13,7 +13,7 @@ Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://p
 **Currently Working On ⚡**
 ---
 <p> Enhancing Django skills and developing [Dufy](https://github.com/preeyankakc037/Dufy), an AI-powered music recommendation platform.  </p>
----
+
 
 ## Tech Stack
 
