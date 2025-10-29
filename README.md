@@ -5,13 +5,14 @@
 <h1 align="center">Hi, I'm <strong>Priyanka Khatri</strong></h1>
 
 <p align="center">
-  On the journey to becoming a Software Engineer from Nepal 🇳🇵
+Building, breaking, and learning — evolving with every commit toward something greater than yesterday.
 </p>
 
----
 
+## A Glimpse of My Journey
 ## Proof of Work  
-Check out my featured projects here 👉 [Priyanka Khatri – GitHub Portfolio](https://github.com/preeyankakc037?tab=repositories)
+Discover more at my personal portfolio → [preeyanka-genn.vercel.app](https://preeyanka-genn.vercel.app/)
+
 
 ---
 
